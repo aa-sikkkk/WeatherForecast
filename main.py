@@ -8,7 +8,7 @@ import json
 import os
 
 # Constants
-API_KEY = "YOUR_API_KEY"
+API_KEY = "YOUR_API_KEY" # ADD YOUR API KEY FROM OpenWeatherMap
 BASE_URL = "http://api.openweathermap.org/data/2.5/forecast"
 HISTORY_FILE = "weather_history.json"
 
